@@ -5,7 +5,6 @@
 1) Introduction
     - What's Python 
     - Applications(where it's used)
-    - Uniqueness
     - Setup and installation
     - Syntax
     - Datatypes and advanced data structures
@@ -24,22 +23,32 @@
     - what are libraries
     - Modules
     - Date and time handling
+    - File handling
     - Type conversion
     - Encryption
     
 4) Popular Libraries
     - Pyodbc(connecting to sql server db)
     - Requests (connecting to REST APIs and HTTP links)
-    - SQLAlchemy (ORM)*
     - NumPy
     - Pandas
+    - Matplotlib
+    - Azure blob
+    - Amazon S3
+    - SFTP/FTP
+    - SQLAlchemy (ORM)*
+    - HTML
     
 5) Web frameworks
     - Flask
+    - Django
 
 6) Advanced Topics
     - Anaconda
+    - Docker
+    - Kubernetes
     - PySpark
+    - Pipenv/virtualenv
     
 7) References
 
